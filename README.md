@@ -1,15 +1,11 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![JWT](https://img.shields.io/badge/Auth-JWT-orange)
-
-
-
 <h1 align="center">Paras Ashok Chougule</h1>
 <h3 align="center">Asynchronous Backend Engineer | FastAPI | Django | PostgreSQL | Distributed Systems</h3>
 
 ---
-
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 ## 🚀 About Me
 
 Backend Engineer specializing in **Asynchronous Python**, **Scalable API Architecture**, and **Distributed Systems**.
