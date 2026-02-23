@@ -1,105 +1,96 @@
-<h1 align="center">Paras Ashok Chougule</h1>
-<h3 align="center">Asynchronous Backend Engineer | FastAPI | Django | PostgreSQL | Distributed Systems</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChouguleParas07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+
+<h1 align="center">Hi 👋 I'm Paras Ashok Chougule</h1>
+
+<h3 align="center">
+Backend Engineer | FastAPI | Django | PostgreSQL | Distributed Systems
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Asynchronous+Backend+Engineer;Clean+Architecture+Specialist;JWT+%2B+RBAC+Security+Expert;Dockerized+Microservices+Builder;FastAPI+%7C+Django+%7C+PostgreSQL" />
+</p>
 
 ---
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+---
+
 ## 🚀 About Me
 
-Backend Engineer specializing in **Asynchronous Python**, **Scalable API Architecture**, and **Distributed Systems**.
+🔹 Performance-driven Backend Engineer  
+🔹 Architecting Scalable REST APIs  
+🔹 Designing Clean Architecture Systems  
+🔹 Optimizing PostgreSQL for Sub-Second Queries  
+🔹 Building Secure JWT + RBAC Authentication Systems  
 
-I design production-grade backend systems with:
-
-- Clean Architecture
-- Repository Pattern
-- JWT + RBAC Security
-- PostgreSQL Optimization
-- Celery + Redis Task Queues
-- Dockerized Microservices
-
-Focused on building **high-performance, secure, and scalable backend systems.**
+⚡ I don’t just write APIs — I engineer backend systems.
 
 ---
 
-## 🛠 Technical Expertise
+## 🛠 Tech Arsenal
 
-### ⚙ Backend Engineering
-- Python (Async)
-- FastAPI
-- Django
-- RESTful API Design
-- SQLAlchemy 2.0
-- Pydantic
-- Clean Architecture
-- Repository Pattern
+<p align="center">
 
-### 🗄 Databases & Caching
-- PostgreSQL (Advanced Indexing & Optimization)
-- MySQL
-- Redis
-- SQLite
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker,linux,git,github" />
 
-### 🔐 Security & Authentication
-- JWT (Access/Refresh Rotation)
-- Redis-backed Token Blacklisting
-- Role-Based Access Control (RBAC)
-- Firebase Auth Integration
-
-### ⚡ Asynchronous & Distributed Systems
-- Celery
-- Background Tasks
-- Task Queues
-- Transaction Management
-- Atomic Operations
-- State Machine Patterns
-
-### 🐳 DevOps
-- Docker
-- Docker Compose
-- Linux (WSL2)
-- Git & GitHub
+</p>
 
 ---
 
-## 🏆 Featured Projects
+## 🔥 Featured Projects
 
-### 🔹 Hyperlocal Rental Marketplace (Microservices Architecture)
-
-- Asynchronous FastAPI Backend
-- Clean Architecture Implementation
-- PostgreSQL Schema Optimization
-- JWT Lifecycle with Real-time Revocation
-- Celery + Redis Distributed Processing
-- Escrow & Atomic Transaction Logic
-- Fully Dockerized Stack
+### 🏗 Hyperlocal Rental Marketplace
+- Async FastAPI Backend
+- Clean Architecture + Repository Pattern
+- JWT Access/Refresh Rotation
+- Redis Blacklist
+- Celery Distributed Workers
+- Escrow Logic with Atomic Transactions
+- Fully Dockerized Microservices Stack
 
 ---
 
-### 🔹 Great Kart – Django E-Commerce Platform
-
-- Django-based Modular Architecture
-- Razorpay Integration (Webhooks + Verification)
-- Optimized ORM Queries (~35% Faster Retrieval)
-- Secure Session Management
-- Admin & Customer Role System
+### 🛒 Great Kart – Django E-Commerce
+- Razorpay Integration (Webhook Verified)
+- ORM Optimization (~35% Faster Queries)
+- Role-Based Auth (Admin/Customer)
+- Modular Architecture Design
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ChouguleParas07&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChouguleParas07&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChouguleParas07&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChouguleParas07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChouguleParas07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Contact
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ChouguleParas07/ChouguleParas07/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect With Me
 
 📧 paraschougule1008@gmail.com  
 🔗 https://github.com/ChouguleParas07  
 
 ---
 
-⚡ "I don't just write APIs. I engineer backend systems."
+<h3 align="center">⚡ Engineering Backend Systems That Scale</h3>
